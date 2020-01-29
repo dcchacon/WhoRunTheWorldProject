@@ -1,13 +1,13 @@
 # WhoRunTheWorldProject
 
-Team:
+## Team:
 - Ana Davalos
 - Diana Chacon
 - Evgeniya Grigoreva
 - Frances Gliane
 - Mary Basco
 
-Story:
+## Story:
 People living in households in the US that have an income level below the Federal poverty threshold have more than double the rates of violent victimization compared to individuals in high-income households.
 
 Urban poverty increased the risks of violence and crime for US households.
@@ -22,7 +22,7 @@ https://data.lacity.org/A-Safe-City/Crime-Data-from-2010-to-Present/63jg-8b9z
 - Census data: 
 Census wrapper. https://github.com/CommerceDataService/census-wrapper
 
-Jupiter Notebooks:
+## Jupiter Notebooks:
 
 1- crime_data_clean_Diana.ipynb
 
