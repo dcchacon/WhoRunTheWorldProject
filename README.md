@@ -14,6 +14,14 @@ Urban poverty increased the risks of violence and crime for US households.
 
 L.A.'s crime rise is no surprise. Los Angeles is one of the biggest cities in the US with one of the highest poverty rates in California. Poor areas precipitate more crime.
 
+Data sources:
+
+- Crime data
+https://data.lacity.org/A-Safe-City/Crime-Data-from-2010-to-Present/63jg-8b9z
+
+- Census data
+Census wrapper. https://github.com/CommerceDataService/census-wrapper
+
 Jupiter Notebooks:
 
 1- crime_data_clean_Diana.ipynb
