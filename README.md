@@ -16,22 +16,20 @@ L.A.'s crime rise is no surprise. Los Angeles is one of the biggest cities in th
 
 ## Data sources:
 
-- Crime data: 
+- *Crime data:* 
 https://data.lacity.org/A-Safe-City/Crime-Data-from-2010-to-Present/63jg-8b9z
 
-- Census data: 
+- *Census data:* 
 Census wrapper. https://github.com/CommerceDataService/census-wrapper
 
 ## Jupiter Notebooks:
 
-1- crime_data_clean_Diana.ipynb
+1- crime_data_clean.ipynb
 
-2- crime_data_clean_fg.ipynb
+2- Census_Data_2018.ipynb
 
-3- Census_Data_2018.ipynb
+3- Census_Data_2017.ipynb
 
-4- Census_Data_2017.ipynb
+4- Census_Data_2016.ipynb
 
-5- Census_Data_2016.ipynb
-
-6- crime_map_2018.ipynb
+5- crime_map_2018.ipynb
